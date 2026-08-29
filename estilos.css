@@ -86,6 +86,12 @@ a {
 .seccion__texto {
    color: #ffffff;
 }
+
+.pie {
+   background-color: #141414;
+   background-image: linear-gradient(135deg, #2bee34 0%, #163d1a 55%, #141414 100%  );
+   color: #f7f4ef; 
+}
 /* =====================================================================
    BLOQUE 2 · MODELO DE CAJA Y DISPLAY              (pasos 8 al 14)
    ===================================================================== */
@@ -178,8 +184,7 @@ h1, h2, h3, p, ul {
    BLOQUE 3 · FONDOS, BORDES, SOMBRAS Y DEGRADADOS  (pasos 15 al 20)
    ===================================================================== */
 
-.cabecera,
-.pie {
+.cabecera {
    background-color: #141414;
 }
 
